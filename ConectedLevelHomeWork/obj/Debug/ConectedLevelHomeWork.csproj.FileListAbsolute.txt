@@ -1,0 +1,7 @@
+C:\Users\УринбасаровД\source\repos\ADO.NET-ConectedLevelHomeWork\ConectedLevelHomeWork\bin\Debug\ConectedLevelHomeWork.exe.config
+C:\Users\УринбасаровД\source\repos\ADO.NET-ConectedLevelHomeWork\ConectedLevelHomeWork\bin\Debug\ConectedLevelHomeWork.exe
+C:\Users\УринбасаровД\source\repos\ADO.NET-ConectedLevelHomeWork\ConectedLevelHomeWork\bin\Debug\ConectedLevelHomeWork.pdb
+C:\Users\УринбасаровД\source\repos\ADO.NET-ConectedLevelHomeWork\ConectedLevelHomeWork\obj\Debug\ConectedLevelHomeWork.csprojAssemblyReference.cache
+C:\Users\УринбасаровД\source\repos\ADO.NET-ConectedLevelHomeWork\ConectedLevelHomeWork\obj\Debug\ConectedLevelHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\УринбасаровД\source\repos\ADO.NET-ConectedLevelHomeWork\ConectedLevelHomeWork\obj\Debug\ConectedLevelHomeWork.exe
+C:\Users\УринбасаровД\source\repos\ADO.NET-ConectedLevelHomeWork\ConectedLevelHomeWork\obj\Debug\ConectedLevelHomeWork.pdb
